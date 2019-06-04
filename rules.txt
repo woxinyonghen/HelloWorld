@@ -1,0 +1,15 @@
+r1 IF 该动物有毛发 THEN 该动物是哺乳动物
+r2 IF 该动物有奶 THEN 该动物是哺乳动物
+r3 IF 该动物有羽毛 THEN 该动物是鸟
+r4 IF 该动物会飞 AND 该动物会下蛋 THEN 该动物是鸟
+r5 IF 该动物吃肉 THEN 该动物是肉食动物
+r6 IF 该动物有该动物是犬齿 AND 有爪 AND 眼盯前方 THEN 该动物是肉食动物
+r7 IF 该动物是哺乳动物 AND 有蹄 THEN 该动物是有蹄动物
+r8 IF 该动物是哺乳动物 AND 嚼反刍动物 THEN 该动物是有蹄动物
+r9 IF 该动物是哺乳动物 AND 肉食动物 AND 黄褐色 AND 有暗斑点 THEN 该动物是金钱豹
+r10 IF 该动物是哺乳动物 AND 肉食动物 AND 黄褐色 AND 黑色条纹 THEN 该动物是虎
+r11 IF 该动物是有蹄动物 AND 长脖子 AND 长腿 AND 有暗斑点 THEN 该动物是长颈鹿
+r12 IF 该动物是有蹄动物 AND 黑色条纹 THEN 该动物是斑马
+r13 IF 该动物是鸟 AND 长脖子 AND 长腿 AND 不会飞 THEN 该动物是鸵鸟
+r14 IF 该动物是鸟 AND 会游泳 AND 不会飞 AND 黑白二色 THEN 该动物是企鹅
+r15 IF 该动物是鸟 AND 善飞 THEN 该动物是信天翁
